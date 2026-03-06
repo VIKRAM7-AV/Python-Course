@@ -27,3 +27,7 @@ LovName="vikram swe"
 
 initial="".join([name[0].upper() for name in LovName.split()])
 print(initial)
+
+print(zomota.find("is"))
+
+print(len(zomota.split(" ")))
